@@ -32,6 +32,14 @@ $ python3 main.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new
 # Generates output file: new-pass-list.txt with specified special characters
 ```
 
+## Install Libraries
+
+```
+# Install Coloroma Python library (will be installed automatically on run)
+
+$ pip install colorama
+```
+
 ## To Do List
 
 Will try to add more updates in the feature!
