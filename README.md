@@ -32,6 +32,6 @@ $ python3 main.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new
 # Generates output file: new-pass-list.txt with specified special characters
 ```
 
-## To-do-list
+## To Do List
 
 Will try to add more updates in the feature!
