@@ -2,7 +2,7 @@
 
 This python script can generate possible passwords from a list of words (or passwords), by adding characters to the end of the word. You can also specify your own characters and output this all to a .txt file.
 
-## Download
+## Clone
 
 ```
 # Clone this repository
