@@ -50,4 +50,7 @@ $ python3 passlistgen.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123"
 
 ## To Do List
 
+- [ ]  Check website for possible words/passwords
+- [ ]  Check website for e-mails
+
 Will try to add more updates in the feature!
