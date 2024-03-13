@@ -27,7 +27,7 @@ $ python3 main.py -w old-pass-list.txt -o new-pass-list.txt
 ```
 
 ```
-$ python3 main.py -a "!, 01, @, &, 7777, 1234, 0123" -o new-pass-list.txt
+$ python3 main.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new-pass-list.txt
 
 # Generates output file: new-pass-list.txt with specified special characters
 ```
