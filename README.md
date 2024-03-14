@@ -65,7 +65,8 @@ Scanning for emails...
 
 ## To Do List
 
+- [x]  Check website for e-mails
 - [ ]  Check website for possible words/passwords
-- [ ]  Check website for e-mails
+- [ ]  Crawl the website instead of 1 page to find emails
 
 Will try to add more updates in the feature!
