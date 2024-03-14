@@ -12,7 +12,7 @@ $ git clone https://github.com/yZ1337/python-passlist-gen.git
 ## Install Libraries
 
 ```
-# (Will be installed automatically on run)
+# Will be installed automatically on run, but you can install manually:
 $ pip install colorama
 $ pip install requests
 $ pip install bs4
