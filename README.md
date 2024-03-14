@@ -37,15 +37,13 @@ options:
 ```
 
 ```
-$ python3 passlistgen.py -w old-pass-list.txt -o new-pass-list.txt
-
 # Generates output file: new-pass-list.txt
+$ python3 passlistgen.py -w old-pass-list.txt -o new-pass-list.txt
 ```
 
 ```
-$ python3 passlistgen.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new-pass-list.txt
-
 # Generates output file: new-pass-list.txt with specified special characters
+$ python3 passlistgen.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new-pass-list.txt
 ```
 
 ## To Do List
