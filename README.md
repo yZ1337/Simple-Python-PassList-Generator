@@ -35,6 +35,9 @@ options:
   -a ADD, --add ADD     Characters to use, comma separated
   -o OUTPUT, --output OUTPUT
                         File to save the modified words
+  -fe FIDNEMAILS, --findemails FIDNEMAILS
+                        Find emails on a website by URL
+                        and outputs it to a file.
 ```
 
 ```
