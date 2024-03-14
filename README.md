@@ -49,7 +49,7 @@ $ python3 passlistgen.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123"
 
 ### Email finder
 ```
-$ python3 main.py -fe https://sparkmailapp.com/formal-email-template
+$ python3 main.py -fe https://website.com
 #############################
 #      Created by: yZ       #
 #############################
