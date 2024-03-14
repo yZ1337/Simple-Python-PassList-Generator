@@ -20,6 +20,7 @@ $ pip install bs4
 
 ## Usage
 
+### Pass list generator
 ```
 $ python3 passlistgen.py -h
 
@@ -44,6 +45,22 @@ $ python3 passlistgen.py -w old-pass-list.txt -o new-pass-list.txt
 ```
 # Generates output file: new-pass-list.txt with specified special characters
 $ python3 passlistgen.py -w old-pass-list.txt -a "!, 01, @, &, 7777, 1234, 0123" -o new-pass-list.txt
+```
+
+### Email finder
+```
+$ python3 main.py -fe https://sparkmailapp.com/formal-email-template
+#############################
+#      Created by: yZ       #
+#############################
+
+Scanning for emails...
+
+[+] firstname.lastname@example.com.Learn
+
+[INFO] 1 found on the website.
+[SUCCESS] File saved to: found_emails_2024-03-14.txt
+
 ```
 
 ## To Do List
