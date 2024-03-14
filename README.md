@@ -6,7 +6,6 @@ This python script can generate possible passwords from a list of words (or pass
 
 ```
 # Clone this repository
-
 $ git clone https://github.com/yZ1337/python-passlist-gen.git
 ```
 
@@ -14,7 +13,6 @@ $ git clone https://github.com/yZ1337/python-passlist-gen.git
 
 ```
 # (Will be installed automatically on run)
-
 $ pip install colorama
 $ pip install requests
 $ pip install bs4
