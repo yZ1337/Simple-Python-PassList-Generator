@@ -1,6 +1,6 @@
 # Generate Password List From Wordlist in Python
 
-This python script can generate possible passwords from a list of words (or passwords), by adding characters to the end of the word. You can also specify your own characters and output this all to a .txt file.
+This Python script can generate potential passwords from a list of words by appending characters to the end of each word. You have the option to specify your own set of characters and export the results to a .txt file.
 
 ## Clone
 
@@ -68,8 +68,9 @@ Scanning for emails...
 
 ## To Do List
 
-- [x]  Check website page for e-mails
-- [ ]  Check website for possible words/passwords
-- [ ]  Crawl the website instead of 1 page to find emails
+ - [x] Check the website page for emails
+ - [ ] Search the website for potential words/passwords
+ - [ ] Crawl the entire website, not just one page, to find emails
+ - [ ] Insert characters within a word, not only at the end
 
-Will try to add more updates in the feature!
+I will try to provide more updates in the future!
